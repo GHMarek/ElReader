@@ -1,0 +1,9 @@
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\ExcelReaderLib.dll
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\ExcelReaderLib.pdb
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\DocumentFormat.OpenXml.dll
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\DocumentFormat.OpenXml.xml
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.csprojAssemblyReference.cache
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.csproj.CoreCompileInputs.cache
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.csproj.CopyComplete
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.dll
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.pdb

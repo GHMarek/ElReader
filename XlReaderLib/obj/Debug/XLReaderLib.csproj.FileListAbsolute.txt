@@ -1,0 +1,16 @@
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\ExcelReaderLib.dll
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\ExcelReaderLib.pdb
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\DocumentFormat.OpenXml.dll
+D:\vs projects\readExcel\ExcelReaderLib\bin\Debug\DocumentFormat.OpenXml.xml
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\XLReaderLib.csproj.CoreCompileInputs.cache
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\XLReaderLib.csproj.CopyComplete
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.dll
+D:\vs projects\readExcel\ExcelReaderLib\obj\Debug\ExcelReaderLib.pdb
+D:\vs projects\ExcelReader\XlReaderLib\bin\Debug\ExcelReaderLib.dll
+D:\vs projects\ExcelReader\XlReaderLib\bin\Debug\ExcelReaderLib.pdb
+D:\vs projects\ExcelReader\XlReaderLib\bin\Debug\DocumentFormat.OpenXml.xml
+D:\vs projects\ExcelReader\XlReaderLib\obj\Debug\XLReaderLib.csprojAssemblyReference.cache
+D:\vs projects\ExcelReader\XlReaderLib\obj\Debug\XLReaderLib.csproj.CoreCompileInputs.cache
+D:\vs projects\ExcelReader\XlReaderLib\obj\Debug\XLReaderLib.csproj.CopyComplete
+D:\vs projects\ExcelReader\XlReaderLib\obj\Debug\ExcelReaderLib.dll
+D:\vs projects\ExcelReader\XlReaderLib\obj\Debug\ExcelReaderLib.pdb
